@@ -1,0 +1,3 @@
+Merge both building instance and unit instance module into one. They are essentially the same right now, there is no point of them being seperate
+
+Re organize non unit and non building modules
